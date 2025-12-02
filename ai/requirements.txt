@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+prophet
+supabase
+python-dotenv
+numpy
+gunicorn
